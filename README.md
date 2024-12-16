@@ -15,14 +15,14 @@ For more information about Contact Provider Extensions, see my blog post at http
          <td>Contact list</td> 
     </tr>
     <tr>
-        <td><img src="Assets/APP.PNG" width=270 height=480></td>
-        <td><img src="Assets/CONTACT_LIST.PNG" width=270 height=480></td>
+        <td><img src="Assets/APP.PNG" width=270 height=600></td>
+        <td><img src="Assets/CONTACT_LIST.PNG" width=270 height=600></td>
     </tr>
     <tr>
         <td>Contact item</td>
     </tr>
     <tr>
-        <td><img src="Assets/BOB_WILLIAMS.PNG" width=270 height=480></td>
+        <td><img src="Assets/BOB_WILLIAMS.PNG" width=270 height=600></td>
     </tr>
 </table>
 
